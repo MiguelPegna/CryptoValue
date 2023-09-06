@@ -1,0 +1,16 @@
+@import url(https://fonts.bunny.net/css?family=allerta-stencil:400);
+
+body{
+  background-color: #141441;
+  color:  #fff;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+
+.foot{
+  width:100%;
+  background-color: blue;
+  color: #ccffcc;
+  padding: 1rem;
+  margin: 10rem 0;
+  text-align: center;
+}
